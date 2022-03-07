@@ -1,0 +1,19 @@
+export const REGISTER_USER = "REGISTER_USER";
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+export const REMOVE_CURRENT_USER = "REMOVE_CURRENT_USER";
+
+export const FETCH_ALL_POST = "FETCH_ALL_POST";
+export const FETCH_ALL_POST_FAILED = "FETCH_ALL_POST_FAILED";
+export const STORE_ALL_POST = "STORE_ALL_POST";
+
+export const FETCH_ONE_POST = "FETCH_ONE_POST";
+export const FETCH_ONE_POST_FAILED = "FETCH_ONE_POST_FAILED";
+export const STORE_ONE_POST = "STORE_ONE_POST";
+
+export const CREATE_POST = "CREATE_POST";
+
+export const COMMENT = "COMMENT";
+
+export const LIKE = "LIKE";
+export const DISLIKE = "DISLIKE";
